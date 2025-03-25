@@ -1,4 +1,4 @@
-# Browser_history_Delete
+# Browser_History_Delete
 
 A powerful batch script tool to automatically close multiple browsers and clear all browser data—including browsing history, cookies, cache, saved passwords, bookmarks, and extensions—in one go.
 
